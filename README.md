@@ -1,5 +1,10 @@
 # Library Website — Node.js + React
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/mmahmoudai/library-trae)
+#Build_with_trae
+
+![Library App Screenshot](./screenshot.png)
+
 This repository scaffolds a full-stack library website built with a Node.js/Express backend and a React frontend. It includes authentication, book browsing with search/filters, favorites, and a responsive UI.
 
 ## Tech Stack
